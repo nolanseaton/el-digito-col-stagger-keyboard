@@ -1,0 +1,12 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, C2, ",2,22pF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"C4, ",1,1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"C5, C6, C7, ",3,0.1uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"C8, ",1,10uF,C_Small,Capacitor_SMD:C_0805_2012Metric,"Unpolarized capacitor, small symbol"
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, ",34,D_Small,D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol"
+"J1, ",1,Conn_01x04_Female,Conn_01x04_Female,random-keyboard-parts:JST-SR-4,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1, R4, ",2,10k,R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol"
+"R2, R3, ",2,22,R_Small,Resistor_SMD:R_0805_2012Metric,"Resistor, small symbol"
+"SW1, ",1,SW_Push,SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem,"Push button switch, generic, two pins"
+"U2, ",1,ATmega32U4-A,ATmega32U4-A,Package_QFP:TQFP-44_10x10mm_P0.8mm,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"
+"Y1, ",1,16MHz,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4, small symbol"

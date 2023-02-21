@@ -1,1 +1,1 @@
-# el-digito-col-stagger-keyboard
+# El Digito - Col Stagger PCB and Case
